@@ -4,10 +4,10 @@ const MainHeader = () => {
       <nav>
         <ul>
           <li>
-            <a href="/welcome"></a>
+            <a href="/welcome">welcome</a>
           </li>
           <li>
-            <a href="/products"></a>
+            <a href="/products">product</a>
           </li>
         </ul>
       </nav>
